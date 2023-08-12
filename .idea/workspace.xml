@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="402cd7e1-ca63-4f15-8648-6cb5e365b75a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PastebinZadaci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaI/Zadatak20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaII/Zadatak9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIII/Zadatak9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak01/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak01/Zadatak01Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak01/Zadatak01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak02/Pravougaonik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak02/Zadatak02Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak02/Zadatak02Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak03/Krug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak03/Zadatak03Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak03/Zadatak03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak04/Automobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak04/Zadatak04Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak04/Zadatak04Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak05/Trougao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak05/Zadatak05Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak05/Zadatak05Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak06/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak06/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak06/Zadatak06Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak06/Zadatak06Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak07/Automobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak07/Voznja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak07/Zadatak07Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak08/Automobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak08/Grad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak08/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak08/Putovanje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak08/Zadatak08Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak08/Zadatak08Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak09/Odeljenje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak09/Ucenik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak09/Zadatak09Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak09/Zadatak09Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak11/Kvadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak11/Pravougaonik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak11/Zadatak11Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak11/Zadatak11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Korpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Kupac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Namirnica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Prodavnica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Zadatak13Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak13/Zadatak13Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak15/Osnovac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak15/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak15/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak15/Ucenik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak15/Zadatak15Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak15/Zadtak15Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak19/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak19/Pokretljivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak19/Vozilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak19/Zadatak19Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak19/Zadatak19Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak21/Zadatak21Tekst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grupaIV/zadatak21/Zadatak21Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TslKmjKRuyKPcphmBIctivsBjf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/PastebinZadaci/src/grupaIV"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\PastebinZadaci\src\grupaIV" />
+      <recent name="C:\Users\HP\IdeaProjects\PastebinZadaci\src\grupaIII" />
+      <recent name="C:\Users\HP\IdeaProjects\PastebinZadaci\src\grupaII" />
+      <recent name="C:\Users\HP\IdeaProjects\PastebinZadaci\src\grupaJedan" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="grupaJedan" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="402cd7e1-ca63-4f15-8648-6cb5e365b75a" name="Changes" comment="" />
+      <created>1691839608968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691839608968</updated>
+    </task>
+    <servers />
+  </component>
+</project>
