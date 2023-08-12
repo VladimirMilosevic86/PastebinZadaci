@@ -1,0 +1,11 @@
+5. Napisati klasu Trougao koja ima 3 double atributa za polja.
+Napraviti metodu 'daLiJeTrougaoValidan', koji proverava da li 3 prosledjene stranice mogu da budu stranice nekog trougla.
+Trougao nije validan ako je zbir bilo kojih dveju stranica strogo manji od duzine trece ili ako je neka stranica nepozitivne duzine.
+Napraviti konstruktor koji prima 3 argumenta za atribute i proverava njihovu validnost.
+Ako nisu validni, ispisati neku odgovarajucu poruku i postaviti sve stranice na -1.
+Napraviti gettere i settere za svako polje, kao i metode 'obim' i 'povrsina'
+(Pogledati heronov obrazac: https://en.wikipedia.org/wiki/Heron%27s_formula)
+Napraviti toString() metod:
+Duzina stranice A je: {stranicaA}
+Duzina stranice B je: {stranicaB}
+Duzina stranice C je: {stranicaC}
